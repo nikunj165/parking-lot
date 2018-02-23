@@ -1,0 +1,25 @@
+Created a Parking Slot with 4 slots
+Allocated Slot No. 1
+Allocated Slot No. 2
+Allocated Slot No. 3
+Allocated Slot No. 4
+Sorry, Parking Lot is full
+Sorry, Parking Lot is full
+Slot number 4 is free
+Slot number 3 is free
+Slot No.	Registration No.		Colour
+1	KA­01­HH­1234	white
+2	KA­01­HH­9999	white
+Allocated Slot No. 3
+Allocated Slot No. 4
+Slot No.	Registration No.		Colour
+1	KA­01­HH­1234	white
+2	KA­01­HH­9999	white
+3	KA­01­P­333	white
+4	DL­12­AA­9999	white
+KA­01­HH­1234, KA­01­HH­9999, KA­01­P­333, DL­12­AA­9999, 
+1, 2, 3, 4, 
+4
+1
+2
+No Cars found

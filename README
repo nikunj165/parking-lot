@@ -1,0 +1,10 @@
+Parking Lot Service
+
+A multi-storey parking lot which can hold 'n' cars at a moment. 
+Provides functionalities to 
+- park car in a parking slot, 
+- exit car, 
+query:
+    parking slot id, 
+    registration number 
+    colour of the cars 

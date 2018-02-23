@@ -1,0 +1,27 @@
+Created a Parking Slot with 6 slots
+Allocated Slot No. 1
+Allocated Slot No. 2
+Allocated Slot No. 3
+Allocated Slot No. 4
+Allocated Slot No. 5
+Allocated Slot No. 6
+Slot number 4 is free
+Slot No.	Registration No.		Colour
+1	KA­01­HH­1234	white
+2	KA­01­HH­9999	white
+3	KA­01­BB­0001	black
+5	KA­01­HH­2701	blue
+6	KA­01­HH­3141	black
+Allocated Slot No. 4
+Sorry, Parking Lot is full
+Slot No.	Registration No.		Colour
+1	KA­01­HH­1234	white
+2	KA­01­HH­9999	white
+3	KA­01­BB­0001	black
+4	KA­01­P­333	white
+5	KA­01­HH­2701	blue
+6	KA­01­HH­3141	black
+KA­01­HH­1234, KA­01­HH­9999, KA­01­P­333, 
+1, 2, 4, 
+6
+Not Found
